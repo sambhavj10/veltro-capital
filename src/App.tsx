@@ -104,7 +104,7 @@ export default function Home() {
           variants={STAGGER}
         >
           <motion.h1 variants={FADE_UP} className="text-5xl md:text-7xl lg:text-8xl font-serif max-w-4xl leading-[1.1] mb-6">
-            The Investment Bank Built for India's <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-[#E8D09F] italic">Next Builders.</span>
+            The Investment Bank Built for India's <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-[#E8D09F] italic">Builders.</span>
           </motion.h1>
           
           <motion.p variants={FADE_UP} className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-10 leading-relaxed">
